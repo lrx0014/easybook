@@ -12,6 +12,6 @@
 	<artifactId>admin-core</artifactId>
 
 	<name>admin-core</name>
-	<description>core of admin portal</description>
+	<description>core of admin management services</description>
 
 </project>
